@@ -112,6 +112,10 @@ If the bot is running, turn it off, but don't click "kill" because it will inter
 In Packages section
 go in Add package writing the name of the next Dependencies,
 and Select the Version Writed here
+<img width="1080" height="1116" alt="53304" src="https://github.com/user-attachments/assets/9a444441-025f-4ca0-92f3-aee72294e847" />
+
+Although the host already provides what needs to be installed, that's why the `npm install` command is there for that purpose; otherwise, what could the bot use? It wouldn't work.
+
 
 
 Dependencies
