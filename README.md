@@ -149,3 +149,10 @@ Less important here, but it's up to you if you want to work on this more quickly
 ## Informative Note
 
 If you're going to save everything in the repo, I recommend downloading the .zip file from this repo and modifying it right away, or if you're going to make it private, then you'll have to upload the files there.
+
+# Final
+
+Anything else I haven't mentioned isn't necessary for this process; it depends on how you use it correctly and your experience flow.
+
+If the bot isn't working or won't start, let me know in the Issues section so I can help you without any problems. ✅✅
+
