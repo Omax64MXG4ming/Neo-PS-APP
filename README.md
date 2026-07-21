@@ -4,7 +4,15 @@
 
 for bot hosting is Necessary a GitHub Account for this script files
 and [FORK HERE MY REPO](https://github.com/Omax64MXG4ming/Neo-PS-APP/fork),
-or nothave two options, Discord or GitHub 
+or nothave two options, Discord or GitHub.
+
+although it's not strictly necessary to fork the repo.
+
+## WebSite or Your Server Host
+You must extract the contents of the bot/ folder for the slash command handler. If the server does not have config/connection.php, you will need to change the path for its function in the bot with the server 
+
+[RELEASE](https://github.com/Omax64MXG4ming/Neo-PS-APP/releases/tag/PHP)
+
 ## How Host (Safe Token)
 
 web here: https://bot-hosting.net/login
