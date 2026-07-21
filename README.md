@@ -5,7 +5,7 @@ bot
 ## Installation 
 
 for bot hosting is Necessary a GitHub Account for this script files
-and 7(FORK HERE MY REPO](https://github.com/Omax64MXG4ming/Neo-PS-APP/fork),
+and [FORK HERE MY REPO](https://github.com/Omax64MXG4ming/Neo-PS-APP/fork),
 
 ## How Host (Safe Token)
 
