@@ -1,8 +1,8 @@
 {
-      "prefix": "!",
-      "host": "https://neops.x10.mx/database/",
-      "owner": "1292896731704328264",
-      "moderator": "1528532591135686757",
+      "prefix": "/",
+      "host": "https://mygdps",
+      "owner": "discordIDuser",
+      "moderator": "aCustomroleID for Mod",
       "statusbot": "online",
       "actionbot": "Playing Neo PS",
       "gdpsup": {
@@ -12,15 +12,7 @@
       },
       "channel": {
       "gdpsstatus": "1516253429402697758",
-      "ratestatus": "1516253377556910101"
-      },
+      "ratestatus": "leave blank this or put 0"
+      }
 
-      {
-    "cronURL": "https://neops.x10.mx/database/tools/cron/cron.php",
-    "cronChannel": "1516253429402697758"
-
-}
-
-{
-    "gdpsAPI": "https://neops.x10.mx/api/req.php"
 }
