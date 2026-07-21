@@ -95,8 +95,7 @@ npm install && node . ide-mode
 
 ## Env Section 
 
-Add a Secret With the Name 
-
+Add With the Name an Environment Variables
 ```
 BOT_TOKEN
 ```
