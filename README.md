@@ -71,7 +71,13 @@ host: your https://fhgdps.com/ (directly | other host)
 /db/ put it when : https://mygdps.com/db/ mygdps.com/database/
 etc
 
-IS NECESSARY https://
+IS NECESSARY https:// 
+
+## Startup
+
+1: Follow IMG
+<img width="1080" height="2046" alt="53302" src="https://github.com/user-attachments/assets/e5f07aaa-5f00-4a5e-90dd-62686d21b3ca" />
+
 
 
 Version: 24 (L)
@@ -87,6 +93,19 @@ and Start Command :
 npm install && node . ide-mode
 ```
 
+## Env Section 
+
+Add a Secret With the Name 
+
+```
+BOT_TOKEN
+```
+AND THE TOKEN
+
+
+### Note 
+
+If the bot is running, turn it off, but don't click "kill" because it will interrupt the .npm install process and delete necessary files. Click "stop," or do nothing else, although the bot might still freeze. On Discord, but since the command always runs `npm install`, use them, but with caution; it's more advisable to use `stop` or `restart`.
 
 
 ## Packages 
