@@ -26,6 +26,13 @@ Note: Don't Run the Bot Yet , Wait, and Read Slowy.
 BOT_TOKEN=
 ```
 
+Afther Save Is Automatically, enter in ``setup.json``
+and configure it :
+
+you have this
+
+
+
 Version: 24 (L)
 
 Entry File : 
