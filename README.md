@@ -31,6 +31,47 @@ and configure it :
 
 you have this
 
+``
+
+    "prefix": "/",
+      
+      "host": "https://mygdps",
+      
+      "owner": "discordIDuser",
+      
+      "moderator": "aCustomroleID for Mod",
+      
+      "statusbot": "online",
+      
+      "actionbot": "Playing Neo PS",
+      
+      "gdpsup": {
+      
+            "gdps": true,
+            
+            "directory": "gdpsup",
+            
+            "turn": "Off"
+            
+      },
+      
+      "channel": {
+      
+      "gdpsstatus": "1516253429402697758",
+      
+      "ratestatus": "disabled/leave blank this or put 0"
+      
+      }
+
+``
+Perfix "/" Is For Slash Response | Don't Change it.
+
+host: your https://fhgdps.com/ (directly | other host)
+, is dbpath /database/ or
+/db/ put it when : https://mygdps.com/db/ mygdps.com/database/
+etc
+
+IS NECESSARY https://
 
 
 Version: 24 (L)
