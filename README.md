@@ -145,3 +145,7 @@ express
 Less important here, but it's up to you if you want to work on this more quickly and how, using your FTP file manager. 
 
 <img width="1080" height="1328" alt="53306" src="https://github.com/user-attachments/assets/b9d14c08-93cb-4cf8-9192-3be916db7c28" />
+
+## Informative Note
+
+If you're going to save everything in the repo, I recommend downloading the .zip file from this repo and modifying it right away, or if you're going to make it private, then you'll have to upload the files there.
