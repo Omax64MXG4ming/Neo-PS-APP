@@ -140,3 +140,8 @@ express
 
 `^4.22.2`
 
+## SFTP
+
+Less important here, but it's up to you if you want to work on this more quickly and how, using your FTP file manager. 
+
+<img width="1080" height="1328" alt="53306" src="https://github.com/user-attachments/assets/b9d14c08-93cb-4cf8-9192-3be916db7c28" />
