@@ -8,6 +8,12 @@ or nothave two options, Discord or GitHub.
 
 although it's not strictly necessary to fork the repo.
 
+If you fork, 
+
+* IMPORTANT:
+
+DO NOT PUT YOUR BOT'S TOKEN IN YOUR FORK REPO BECAUSE DISCORD WILL DEACTIVATE IT AND YOU WILL HAVE TO RESET THE TOKEN TO GET IT AGAIN. MAKE THE CHANGES IN THE bot-hosting.
+
 ## WebSite or Your Server Host
 You must extract the contents of the bot/ folder for the slash command handler. If the server does not have config/connection.php, you will need to change the path for its function in the bot with the server 
 
@@ -164,3 +170,4 @@ Anything else I haven't mentioned isn't necessary for this process; it depends o
 
 If the bot isn't working or won't start, let me know in the Issues section so I can help you without any problems. ✅✅
 
+**Thanks for GDPSFH and Bot-Hosting For sponsor this**
