@@ -8,6 +8,12 @@ or nothave two options, Discord or GitHub.
 
 although it's not strictly necessary to fork the repo.
 
+or in Bot-Hosting Template 
+
+* here : https://bot-hosting.net/templates/open-gdps-bot Shared By Me
+  And Only Set The Bot Token And Modify setup.json
+  in template.
+
 If you fork, 
 
 * IMPORTANT:
