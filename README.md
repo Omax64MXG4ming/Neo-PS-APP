@@ -10,9 +10,12 @@ although it's not strictly necessary to fork the repo.
 
 or in Bot-Hosting Template 
 
-* here : https://bot-hosting.net/templates/open-gdps-bot Shared By Me
+* here is a Template Shared By Me
   And Only Set The Bot Token And Modify setup.json
   in template.
+
+* [![Deploy on Bot-Hosting](https://bot-hosting.net/assets/deploy-badge.svg)](https://bot-hosting.net/deploy?source=template&template=open-gdps-bot)
+
 
 If you fork, 
 
@@ -138,7 +141,7 @@ Although the host already provides what needs to be installed, that's why the `n
 
 
 
-Dependencies
+### Dependencies
 
 ```
 discord.js
