@@ -16,6 +16,7 @@ or in Bot-Hosting Template
 
 * [![Deploy on Bot-Hosting](https://bot-hosting.net/assets/deploy-badge.svg)](https://bot-hosting.net/deploy?source=template&template=open-gdps-bot)
 
+* [Start In Bot-Hosting-net](https://bot-hosting.net/?aff=ORION)
 
 If you fork, 
 
